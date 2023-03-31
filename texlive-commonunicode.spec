@@ -1,6 +1,6 @@
 Name:		texlive-commonunicode
 Version:	62901
-Release:	1
+Release:	2
 Summary:	Convert common unicode symbols to LaTeX code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/commonunicode
