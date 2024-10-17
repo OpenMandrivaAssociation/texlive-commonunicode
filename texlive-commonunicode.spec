@@ -3,7 +3,7 @@ Version:	62901
 Release:	2
 Summary:	Convert common unicode symbols to LaTeX code
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/commonunicode
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/commonunicode
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/commonunicode.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/commonunicode.doc.r%{version}.tar.xz
